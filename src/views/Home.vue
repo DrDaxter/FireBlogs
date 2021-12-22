@@ -22,12 +22,12 @@ export default {
         {
           title: "This is a Filter Title",
           blogHTML:"This is a filter bloh post title",
-          blogCoverPhoto:"beatiful-stories",
+          blogCoverPhoto:"beautiful-stories",
         },
         {
           title: "This is a Filter Title",
           blogHTML:"This is a filter bloh post title",
-          blogCoverPhoto:"designed for everyone",
+          blogCoverPhoto:"designed-for-everyone",
         },
       ]
     }
